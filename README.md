@@ -166,29 +166,6 @@ PROJECT-POLARIS_SIH26061/
 
 ---
 
-## ⚡ Quickstart & Local Setup
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/chharmmyy/PROJECT-POLARIS_SIH26061.git
-cd PROJECT-POLARIS_SIH26061
-```
-
-### 2. Run the Web Application
-```bash
-# Launch frontend (automatically builds and runs Next.js)
-npm run dev
-```
-Open **[http://localhost:3000/dashboard](http://localhost:3000/dashboard)** in your browser.
-
-### 3. Run the Python Backend (Optional)
-```bash
-pip install -r backend/requirements.txt
-npm run backend:dev
-```
-Backend API will be available at `http://localhost:8000/docs`.
-
----
 
 ## 👥 Authors & Acknowledgments
 
